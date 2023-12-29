@@ -1,0 +1,5 @@
+Q. How to start the APP
+A. Type npm start in the console after installing the dependencies from node package manager
+
+Q. What is this about
+A. This is customized setup to a new react project at production standard. 

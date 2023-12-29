@@ -1,0 +1,18 @@
+.intro{
+    margin-top: $mt1;
+    box-shadow: rgba(0, 0, 0, 0.80) 0px 5px 15px;
+    padding:20px  50px 20px 50px;
+
+    .text-box{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .welcome{
+        color:$primary-color;
+    }
+    .typescript{
+        color:$secondary-color;
+    }
+}

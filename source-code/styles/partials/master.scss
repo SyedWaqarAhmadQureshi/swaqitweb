@@ -1,0 +1,19 @@
+@import '../constants/font-colors.scss';
+@import '../constants/padding-margin.scss';
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.main-div{
+    background-image: url('../assets/images/reactJs.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
